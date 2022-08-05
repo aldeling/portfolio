@@ -19,6 +19,21 @@ h1{
   padding: 2px;
   background-color: rgb(43, 40, 40);
 }
+a:link{
+  color: #54494B;
+  text-decoration: none;
+}
+a:visited{
+  color:#D2989F;
+  text-decoration: none;
+}
+a:hover{
+  color:palevioletred
+}
+a:active{
+  color:darkseagreen;
+  text-decoration: none;
+}
 .column{
   margin: auto;
   width: 450px;
