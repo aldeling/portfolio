@@ -1,5 +1,5 @@
 body{
-  background-color: #fcf2f5;
+  background-color: #F1F7ED;
 }
 h1{
   text-align: center;
@@ -25,11 +25,11 @@ h1{
   float: left;
 }
 .about{
-  color:pink;
+  color: #1A5E63;
 }
 .project{
-  color:plum;
+  color:#6B9080;
 }
 .highlight{
-  color:darkolivegreen;
+  color:#D2989F;
 }
