@@ -13,4 +13,5 @@ There are a couple ways you can set of this portfolio to be able to view it.
 ### Known Bugs
 There are currently no know bugs
 ### License
-GNU GPL3.0 Copyright (c) 08/05/2022 Athea DeLing
+[GNU GPL3.0](https://choosealicense.com/licenses/gpl-3.0/) 
+Copyright (c) 08/05/2022 Athea DeLing

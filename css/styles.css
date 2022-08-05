@@ -41,9 +41,11 @@ a:active{
 }
 .about{
   color: #1A5E63;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .project{
   color:#6B9080;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .highlight{
   color:#D2989F;
