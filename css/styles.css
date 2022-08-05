@@ -19,6 +19,12 @@ h1{
   padding: 2px;
   background-color: rgb(43, 40, 40);
 }
+.column-image{
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  float: right;
+}
 a:link{
   color: #54494B;
   text-decoration: none;
