@@ -1,5 +1,9 @@
+body{
+  background-color: #fcf2f5;
+}
 h1{
   text-align: center;
+  color: #422911;
 }
 .centered-image{
   margin: auto;
@@ -9,9 +13,9 @@ h1{
 }
 .frame{
   margin: auto;
-  border: 8px solid burlywood;
+  border: 8px solid rgb(148, 117, 77);
   padding: 2px;
-  background-color: black;
+  background-color: rgb(43, 40, 40);
 }
 .about{
   color:pink;
