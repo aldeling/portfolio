@@ -9,7 +9,7 @@ This is a portfolio of Athea DeLing, it include and about me section and include
 ### Setup Instructions
 There are a couple ways you can set of this portfolio to be able to view it.
 * Clone repository to your desk top
-* Can open github page to view from desktop
+* Can open [GitHub](will add) pages to view from desktop
 ### Known Bugs
 There are currently no know bugs
 ### License
