@@ -4,6 +4,8 @@ body{
 h1{
   text-align: center;
   color: #422911;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
 }
 .centered-image{
   margin: auto;
@@ -16,6 +18,11 @@ h1{
   border: 8px solid rgb(148, 117, 77);
   padding: 2px;
   background-color: rgb(43, 40, 40);
+}
+.column{
+  margin: auto;
+  width: 450px;
+  float: left;
 }
 .about{
   color:pink;
