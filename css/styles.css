@@ -10,6 +10,7 @@ h1{
 .contact{
   color:#422911;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  float: center;
 }
 .centered-image{
   margin: auto;
@@ -37,7 +38,7 @@ a:active{
   color:darkseagreen;
   text-decoration: none;
 }
-.column{
+column{
   margin: auto;
   width: 460px;
   float: left;
